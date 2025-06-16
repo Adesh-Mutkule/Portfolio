@@ -5,9 +5,9 @@
         text-align: center;
     }
     
-    .hero-section img {
-        margin-top: 30px;
-        max-width: 70%;
+   .hero-section img {
+        margin-top: 10px;
+        /* max-width: 70%; */
     }
     
     .section-title {
